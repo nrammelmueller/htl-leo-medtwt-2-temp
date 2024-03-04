@@ -7,6 +7,7 @@ Diese besteht aus:
 -   den Sprint-Dokumentationen
 
 Füge in den Entwicklungsphasen im Rahmen jedes Sprints in diesem Bereich **eine eigene DOKUMENTATION** hinzu!
+
 Format: PDF oder Markdown-Datei
 
 -   Formaler Header (Name, Klasse, Projektname, Link zu Github-Repo)
