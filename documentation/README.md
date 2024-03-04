@@ -5,7 +5,7 @@ Diese besteht aus:
 -   deinem **PROJEKTANTRAG** zu Beginn des Sommersemesters 
 -   dem Link/File zu deinem **UI/UX Prototyp**
 -   den **Sprint-Dokumentationen**
-
+-   die Unterlagen zur abschließenden **Präsentation**
   
 
 ## Projektantrag und Prototyp
