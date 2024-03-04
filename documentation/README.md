@@ -1,6 +1,12 @@
 ﻿# Documentation
 
-Füge im Rahmen jedes Sprints in diesem Bereich **eine eigene DOKUMENTATION** hinzu!
+Lade hier deine Projektdokumentation ab. 
+Diese besteht aus:
+-   deinem PROJEKTANTRAG zu Beginn des Sommersemesters 
+-   dem Link/File zu deinem UI/UX Prototyp
+-   den Sprint-Dokumentationen
+
+Füge in den Entwicklungsphasen im Rahmen jedes Sprints in diesem Bereich **eine eigene DOKUMENTATION** hinzu!
 Format: PDF oder Markdown-Datei
 
 -   Formaler Header (Name, Klasse, Projektname, Link zu Github-Repo)
