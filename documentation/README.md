@@ -17,6 +17,6 @@ Füge in den Entwicklungsphasen im Rahmen jedes Sprints in diesem Bereich **eine
 Format: PDF oder Markdown-Datei
 
 -   Formaler Header (Name, Klasse, Projektname, Link zu Github-Repo)
--   Neurungen bzw.  Änderungen seit dem letzten Sprint als Liste und in Stichworten
+-   Neuerungen bzw.  Änderungen seit dem letzten Sprint als Liste und in Stichworten
 -   Screenshot der GitHub-Insights Statistik
 -   Verpflichtende Ziele bis zum nächsten Sprint
